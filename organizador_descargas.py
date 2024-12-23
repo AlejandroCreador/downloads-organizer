@@ -39,7 +39,7 @@ def create_folders(download_path):
 
 def organize_downloads():
     # Usar la ruta específica de tu carpeta de descargas
-    download_path = r"C:\Users\Aleja\Downloads"
+    download_path = r"[INTRODUCIR TU DIRECCION A DESCARGAS]"
     
     # Verificar si la carpeta existe
     if not os.path.exists(download_path):
