@@ -37,6 +37,8 @@ This program automatically organizes files from the downloads folder by classify
 1. Clone or download this repository
 2. Install the required dependencies: pip install pyinstaller
 
+---
+
 # Español
 
 Un script de Python que organiza automáticamente los archivos de tu carpeta de descargas en subcarpetas según el tipo de archivo.
